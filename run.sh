@@ -1,1 +1,4 @@
-java -jar /myproject-0.0.1-SNAPSHOT.jar
+#cp -f target/*.jar .
+
+
+java -jar target/myproject-0.0.1-SNAPSHOT.jar
