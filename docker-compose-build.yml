@@ -4,4 +4,4 @@ services:
     image: "spring-app"
     build:
       context: .
-      dockerfile: Dockerfile-build
+      dockerfile: Dockerfile
