@@ -1,1 +1,2 @@
-test build trigger1 
+test build trigger1
+trigger 2 
